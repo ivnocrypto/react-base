@@ -19,7 +19,7 @@ export default function (state = initialState, action) {
     }
 
     case types.BOTAO_CLICADO_REQUEST: {
-      console.log("estou fazendo a requisicao");
+      console.log("Estou fazendo a requisicao");
       return state;
     }
 
